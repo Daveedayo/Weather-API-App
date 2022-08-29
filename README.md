@@ -20,9 +20,9 @@ Once you have your virtual environment setup and running, install dependencies b
 
 ```
 pip install requests
-*OR*
+      OR
 pip3 install requests
-*OR*
+      OR
 python3 -m pip install requests
 ```
 
